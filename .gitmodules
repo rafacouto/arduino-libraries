@@ -1,3 +1,6 @@
 [submodule "EnableInterrupt"]
 	path = EnableInterrupt
 	url = ./EnableInterrupt
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = ./Adafruit-GFX-Library/
