@@ -7,3 +7,6 @@
 [submodule "Adafruit_SSD1306"]
 	path = Adafruit_SSD1306
 	url = ./Adafruit_SSD1306
+[submodule "MMA7660"]
+	path = MMA7660
+	url = ./MMA7660
